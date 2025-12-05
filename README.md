@@ -18,13 +18,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-3. Install library
+2. Install library
 
    ```bash
    npm install redux
