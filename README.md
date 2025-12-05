@@ -1,12 +1,12 @@
 # Welcome to your Expo app 👋
-
+ ```bash
 Môn: Lập trình Smartphone
 Lớp: CĐ ĐTTT 23MT
 Tên thành viên: 
    Nguyễn Duy Khang - 0308231122
    Nguyễn Anh Khoa - 0308231128
    Trần Minh Lý - 0308231132
-               
+ ```               
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
