@@ -1,5 +1,13 @@
 # Welcome to your Expo app 👋
 
+Môn: Lập trình Smartphone
+Lớp: CĐ ĐTTT 23MT
+Tên thành viên: 
+   Nguyễn Duy Khang - 0308231122
+   Nguyễn Anh Khoa - 0308231128
+   Trần Minh Lý - 0308231132
+               
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
@@ -16,6 +24,22 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
+3. Install library
+
+   ```bash
+   npm install redux
+   npm install react-redux
+   npm install redux-saga
+   npm install @react-navigation/native
+   npm install @react-navigation/native-stack
+   npm install @react-navigation/bottom-tabs
+   npm install react-native-screens react-native-safe-area-context
+   npm install native-base react-native-svg@12.1.1
+   npm install react-native-vector-icons
+   npm install axios
+
+   ```
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
@@ -30,7 +54,7 @@ You can start developing by editing the files inside the **app** directory. This
 When you're ready, run:
 
 ```bash
-npm run reset-project
+npm run start
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
@@ -48,3 +72,4 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+  
